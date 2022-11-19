@@ -1,9 +1,8 @@
 ---
 deck: Mastermind my memory::Javascript
 ---
-
+## JS object
 <!-- basicblock-start oid="Obs7TxtlnwZK15j6hYzplC9D" -->
-## JS object ::
 
 **What is a JS object ?** ::
 
@@ -88,7 +87,7 @@ There are four functions you can use to get an array of property names:
 ## Copy object 
 
 <!-- basicblock-start oid="ObsVpMHwVGL0kzRFy3uEZlCA" -->
-**How to copty the properties of one object to another object ?** ::
+**How to copy the properties of one object to another object ?** ::
 
 A common operation in JavaScript programs is needing to copy the properties of one object to another object. It is easy to do that with code like this: 
 

@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Tools/Git/Command Line.md",
+                "file": "Javascript/0_Index_Javascript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07099029ab034b93",
+            "id": "123e2b2c16167b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,18 +32,19 @@
             }
           },
           {
-            "id": "39be6507491ecaa5",
+            "id": "b6251a2e53968756",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Statements.md",
+                "file": "Javascript/Metaprogramming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Tools/Git/Command Line.md",
+                "file": "Javascript/Metaprogramming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Tools/Git/Command Line.md",
+                "file": "Javascript/Metaprogramming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Tools/Git/Command Line.md"
+                "file": "Javascript/Metaprogramming.md"
               }
             }
           }
@@ -172,17 +173,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "2e5c017038cbdbb8",
+  "active": "b6251a2e53968756",
   "lastOpenFiles": [
-    "Javascript/The JS standard library.md",
-    "Javascript/0_Index_Javascript.md",
-    "Javascript/Modules.md",
-    "Javascript/Classes.md",
-    "Javascript/Type, Values and Variables.md",
-    "Javascript/Statements.md",
-    "Javascript/Iterators and generators.md",
     "Javascript/Objects.md",
-    "Javascript/Arrays.md",
-    "Javascript/Functions.md"
+    "Javascript/Server-side Javascript with Node.md",
+    "Javascript/0_Index_Javascript.md",
+    "Javascript/Metaprogramming.md",
+    "Javascript/Asynchronous Javascript.md",
+    "Javascript/Modules.md",
+    "Javascript/Expressions and Operators.md",
+    "Javascript/Iterators and generators.md",
+    "Javascript/Lexical Structure.md",
+    "Javascript/The JS standard library.md"
   ]
 }

@@ -1,3 +1,6 @@
+---
+deck: Mastermind my memory::Javascript
+---
 
 ## Introduction 
 

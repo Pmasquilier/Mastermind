@@ -1,0 +1,2 @@
+## Virtual DOM
+React uses a concept called the ==Virtual DOM== to work a bit differently. It creates two copies of the DOM in memory. When we change the DOM, it changes one copy of the DOM. Then, it compares that copy with the other copy to determine what has changed. This process is called diffing. React then batches these changes and applies them to the real DOM in one shot.

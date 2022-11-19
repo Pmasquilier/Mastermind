@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "5b2c053cc49aedd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "94c552deafdf983c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e5c017038cbdbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Tools/Git/Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07099029ab034b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Objects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39be6507491ecaa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Statements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f69a02ae0cbe1ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0def5b60de19581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7404fc90848f8e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37660003bf7c8894",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "destructuring",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5cedd6d60b5af67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Advanced guide/Error boundaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e4b66d5b41318e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a8d90d1ef77f7db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "259a7e2d11cedfd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "486bbcaafd769e01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Tools/Git/Command Line.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "03b64f21a939f60c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Tools/Git/Command Line.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4cd979d8bc05f194",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df73dc0ea86223c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Tools/Git/Command Line.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "2e5c017038cbdbb8",
+  "lastOpenFiles": [
+    "Javascript/The JS standard library.md",
+    "Javascript/0_Index_Javascript.md",
+    "Javascript/Modules.md",
+    "Javascript/Classes.md",
+    "Javascript/Type, Values and Variables.md",
+    "Javascript/Statements.md",
+    "Javascript/Iterators and generators.md",
+    "Javascript/Objects.md",
+    "Javascript/Arrays.md",
+    "Javascript/Functions.md"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "4000 EEW": "",
+      "4000 EEW Extra": "",
+      "Basic (optional reversed card)-7400b": "",
+      "Basic-2e165": "",
+      "Basique": "",
+      "Basique (envers facultatif)": "",
+      "Basique (et envers de la carte)": "",
+      "Basique (saisissez la réponse)": "",
+      "Basique-d5253": "",
+      "Complete Spanish Step-by-Step Eng-Esp": "",
+      "Complete Spanish Step-by-Step EspAudio-English": "",
+      "FSI Replacement-bb5bc": "",
+      "Généralités (Voc Anglais thématique)-9b927": "",
+      "Sans-serif-light font note type": "",
+      "Texte à trous": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "4000 EEW": "Word",
+      "4000 EEW Extra": "№",
+      "Basic (optional reversed card)-7400b": "Thai",
+      "Basic-2e165": "Front",
+      "Basique": "Recto",
+      "Basique (envers facultatif)": "Recto",
+      "Basique (et envers de la carte)": "Recto",
+      "Basique (saisissez la réponse)": "Recto",
+      "Basique-d5253": "Recto",
+      "Complete Spanish Step-by-Step Eng-Esp": "Front",
+      "Complete Spanish Step-by-Step EspAudio-English": "Audio",
+      "FSI Replacement-bb5bc": "Question/Picture",
+      "Généralités (Voc Anglais thématique)-9b927": "Note ID",
+      "Sans-serif-light font note type": "Front",
+      "Texte à trous": "Texte"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": true,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "test.md": "a31d5fba5933f1dd711d4cc9791e387d",
+    "React JS.md": "ac52cb04cd98224442bc86d9bddf4220"
+  },
+  "fields_dict": {
+    "4000 EEW": [
+      "Word",
+      "Image",
+      "Sound",
+      "Sound_Meaning",
+      "Sound_Example",
+      "Meaning",
+      "Example",
+      "IPA"
+    ],
+    "4000 EEW Extra": [
+      "№",
+      "IMG",
+      "English",
+      "Transcription",
+      "Audio",
+      "BrTranscription",
+      "AmTranscription",
+      "Am&BrTranscription"
+    ],
+    "Basic (optional reversed card)-7400b": [
+      "Thai",
+      "Audio",
+      "Meaning"
+    ],
+    "Basic-2e165": [
+      "Front",
+      "Back"
+    ],
+    "Basique": [
+      "Recto",
+      "Verso"
+    ],
+    "Basique (envers facultatif)": [
+      "Recto",
+      "Verso",
+      "Ajouter un envers"
+    ],
+    "Basique (et envers de la carte)": [
+      "Recto",
+      "Verso"
+    ],
+    "Basique (saisissez la réponse)": [
+      "Recto",
+      "Verso"
+    ],
+    "Basique-d5253": [
+      "Recto",
+      "Verso"
+    ],
+    "Complete Spanish Step-by-Step Eng-Esp": [
+      "Front",
+      "Back",
+      "Audio"
+    ],
+    "Complete Spanish Step-by-Step EspAudio-English": [
+      "Audio",
+      "Back"
+    ],
+    "FSI Replacement-bb5bc": [
+      "Question/Picture",
+      "Replacement",
+      "Back Picture",
+      "Answer",
+      "extras",
+      "unit",
+      "Add Reverse?"
+    ],
+    "Généralités (Voc Anglais thématique)-9b927": [
+      "Note ID",
+      "LexiqueFR",
+      "LexiqueEN",
+      "Front",
+      "Back",
+      "ExempleEN",
+      "Indice",
+      "Image",
+      "ImageLicence",
+      "AudioEN",
+      "prononciationEN",
+      "AudioLicence",
+      "Image2",
+      "ImageLicence2",
+      "Son",
+      "SoundLicence",
+      "ComplémentFR",
+      "ComplémentEN",
+      "Back2",
+      "AudioBack2",
+      "prononciationBack2",
+      "AudioLicenceBack2",
+      "ExempleFR",
+      "AudioFR",
+      "AudioLicenceFR",
+      "prononciationFR",
+      "Reverse"
+    ],
+    "Sans-serif-light font note type": [
+      "Front",
+      "Back",
+      "Audio"
+    ],
+    "Texte à trous": [
+      "Texte",
+      "Extra"
+    ]
+  }
+}

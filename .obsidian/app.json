@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "fr",
+    "en-GB",
+    "en-US",
+    "en-GB-oxendict"
+  ]
+}

@@ -1,0 +1,3 @@
+## ReactDom
+You use ==ReactDOM== as the middleman that renders your React elements in the browser. The react-dom package helps you put your root HTML file into the browser using ==root.render()==. First, we use the ==createRoot()== method of ==ReactDOM== to access the root node, and we call ==render()==. We don’t use ==ReactDOM== in mobile devices. We use ==React-Native== for mobile development with React that acts as the middleman there.
+^1664511121537

@@ -1,0 +1,3 @@
+## Webpack
+We use the ==webpack package== to bundle all our code. The ==webpack-dev-server== package allows us to execute the application in a local server during development. The ==webpack-cli== package provides a set of commands we can use while setting up the project. The ==html-webpack-plugin== is a Webpack plugin that is used to inject the bundled JS file into the HTML file. (Location 1185)
+^1664511323715
